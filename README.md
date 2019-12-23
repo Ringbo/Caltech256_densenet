@@ -4,4 +4,3 @@ Run train.py to train model, we provide pretrained model like denseNet121 or den
 Run predict_all to predict all image in your image floder.  
 
 Enjoy it!  
-from Ringbo
